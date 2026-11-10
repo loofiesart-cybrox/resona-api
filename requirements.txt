@@ -1,4 +1,4 @@
 fastapi
 uvicorn
 pinecone
-sentence-transformers
+requests
